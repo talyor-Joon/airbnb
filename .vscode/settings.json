@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "/Users/talyor/.local/share/virtualenvs/airbnb_clone-hRlHRhMR/bin/python",
+    "cornflakes.linter.executablePath": "flake8",
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true,
+    "python.formatting.provider": "black",
+    "python.linting.flake8Args": [
+        "--max-line-legnth=88"
+    ]
+}
